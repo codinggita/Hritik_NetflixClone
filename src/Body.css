@@ -1,0 +1,28 @@
+.section2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+}
+.t1 p{
+    font-weight: bold;
+}
+.t2{
+    display: flex;
+    flex-direction: row;
+    margin-left: -2rem;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 4rem;
+}
+.card .img1 img {
+    height: 10rem;
+}
+.card .img2 img {
+    height: 9.2rem;
+}
+
+
