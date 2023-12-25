@@ -3,9 +3,6 @@ Welcome to the Netflix Clone project! This web application is a front-end replic
 
 # Features
 - React Components: The project is structured using React components, showcasing the power of component-based architecture.
-
-- Integration with TMDB API: The application fetches movie and TV show data to display a list of popular titles.
-
 - Responsive Design: The Netflix Clone is designed to be responsive, providing a seamless experience across various devices.
 
 # Deployment
